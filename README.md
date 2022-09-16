@@ -1,4 +1,4 @@
-# ArullBotz
+# NeZzBotz
 
 ---
 
@@ -10,7 +10,7 @@
 <a href="https://github.com/Warikrr/Rul1/issues"><img title="Issues" src="https://img.shields.io/github/issues/Warikrr/Rul1?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/Warikrr/Rul1/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Warikrr/Rul1?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/Warikrr/Rul1/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/sadteams/bot-md?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Warikrr/Rul1/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Warikrr/Rul1?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Warikrr/RAul1/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Warikrr/Rul1?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Diskusi
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LHfAOQ4sa2g40Bu5sXDWva) 
